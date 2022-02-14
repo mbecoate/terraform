@@ -1,6 +1,8 @@
 # Local .terraform directories
 **/.terraform/*
 
+#if you want to ignore anything else, put in the path and the name of the file or folder. Use the line: /name of folder or file 
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
